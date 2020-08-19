@@ -1,0 +1,44 @@
+body{
+	font-family: "Comic Sans MS", sans-serif;
+	font-weight: bold;
+}
+
+
+.navbar{
+	background-color: gray;
+ 	border-radius: 0;
+  	border: 0;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-size: 1.5em;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+}
+
+
+#foodItem{
+	background-color: gray;
+}
+
+.itemHeader{
+	text-align: center;
+	font-size: 1.5em;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+.top-buffer{ 
+	margin-top:20px; 
+}
+
